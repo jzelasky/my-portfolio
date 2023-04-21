@@ -1,0 +1,13 @@
+* {
+    background-color: #1b093d;
+    color: white;
+}
+
+
+/*style to override default link colorss*/
+a:link {
+    color: white
+}
+a:visited {
+    color: white;
+}

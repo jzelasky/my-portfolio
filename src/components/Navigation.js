@@ -5,7 +5,7 @@ function Navigation({ currentPage, handlePageChange }) {
     <ul className="nav nav-tabs">
       
       <li className="nav-item">
-        <a
+        <a  
           href="#about"
           onClick={() => handlePageChange('About')}
 

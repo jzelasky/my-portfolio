@@ -11,3 +11,8 @@ a:link {
 a:visited {
     color: white;
 }
+
+
+.font-1 {
+    font-size: 30px;
+}

@@ -1,9 +1,25 @@
 import React from 'react';
+import Project from '../Project';
 
-export default function Portfolio() {
+const ex = "hello"
+const projects = ['one', 'two', 'three']
+
+export default function Portfolio(props) {
+  console.log(props)
+  
   return (
     <div>
-      <h1 className='m-3 font-2'>Portfolio</h1>
+      {projects.map((item) => (
+        Project(item)
+      ))}
     </div>
-  );
+  )
+  
+  // return (
+  //   <div>
+  //     {Project(projects)}
+  //   </div>
+  // )
+  
+ 
 }

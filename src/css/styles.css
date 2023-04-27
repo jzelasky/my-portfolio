@@ -24,3 +24,7 @@ a:visited {
 .font-header {
     font-size: 70px;
 }
+
+.card {
+    width: 18rem;
+}

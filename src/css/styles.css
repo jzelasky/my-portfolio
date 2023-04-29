@@ -1,3 +1,13 @@
+:root {
+    --dk-purple: 372554;
+    --turquoise: 007C77;
+    --pink: E56399;
+    --lt-blue: 71A2B6;
+    --beige: FFF4E9;
+}
+
+
+/*try to find a different way to do this*/
 * {
     background-color: #1b093d;
     color: white;
@@ -25,6 +35,11 @@ a:visited {
     font-size: 70px;
 }
 
+
+/*Project Component*/
 .card {
-    width: 18rem;
+    width: 36rem;
+}
+.card-styles {
+    background-color: magenta;
 }

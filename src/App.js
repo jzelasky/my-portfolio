@@ -1,6 +1,6 @@
 import React from "react";
 import PortfolioContainer from "./components/PortfolioContainer";
-import './css/styles.css'
+import './components/css/styles.css'
 
 const App = () => <PortfolioContainer />;
 

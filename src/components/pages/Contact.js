@@ -3,8 +3,8 @@ import React from 'react';
 export default function Contact() {
   return (
     <div className="formStyles">
-      <h1 className="m-3 font-2">Contact</h1>
-      <form className='m-3 font-1'>
+      <h1 className="m-3 header-font-2">Contact</h1>
+      <form className='m-3 body-font-1'>
         <div className='form-group formStyles'>
           <label for="inputName">Name</label>
           <input className='form-control ' id='inputName' placeholder="Enter Name"></input>

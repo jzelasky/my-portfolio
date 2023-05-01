@@ -2,7 +2,7 @@ import React from 'react';
 
 function Navigation({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs font-1 d-flex justify-content-end ">
+    <ul className="nav d-flex justify-content-end body-font-1">
       
       <li className="nav-item">
         <a  

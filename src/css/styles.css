@@ -1,45 +1,56 @@
+/*color palette*/
 :root {
-    --dk-purple: 372554;
-    --turquoise: 007C77;
-    --pink: E56399;
-    --lt-blue: 71A2B6;
-    --beige: FFF4E9;
+    --dk-purple: #1f152f;
+    --turquoise: #007C77;
+    --pink: #efa1c2;
+    --lt-green: #CBDF90;
+    --beige: #FFF4E9;
 }
 
 
 /*try to find a different way to do this*/
 * {
-    background-color: #1b093d;
-    color: white;
+    background-color: var(--dk-purple);
 }
 
 
-/*style to override default link colorss*/
-a:link {
-    color: white
+/*text styling*/
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+.header-font-1 {
+    font-family: 'Bungee Shade', cursive;
+    font-size: 85px;
+    color: var(--beige);
+    text-shadow: 2px 2px 10px black;
 }
-a:visited {
-    color: white;
-}
-
-
-.font-1 {
-    font-size: 30px;
-}
-
-.font-2 {
+.header-font-2 {
     font-size: 45px;
+    color: var(--pink);
+    text-shadow: 2px 2px 5px black;
 }
-
-.font-header {
-    font-size: 70px;
+.body-font-1 {
+    font-size: 30px;
+    color: var(--beige);
 }
 
 
 /*Project Component*/
 .card {
     width: 36rem;
+    box-shadow: 2px 2px 2px black;
 }
 .card-styles {
-    background-color: magenta;
+    background-color: var(--turquoise);
+}
+
+/*style to override default link colorss*/
+/*I DONT UNDERSTAND WHY I CAN'T CHANGE THE COLOR OF THE ACTIVE LINK*/
+a:link {
+    color: var(--lt-green);
+}
+a:visited {
+    color: var(--lt-green);
+}
+a:hover {
+    background-color: var(--turquoise);
+    border-radius: 10px;
 }

@@ -26,7 +26,7 @@ a:link {
 a:visited {
     color: var(--lt-green);
 }
-a:hover {
+.nav-link:hover {
     background-color: var(--turquoise);
     border-radius: 10px;
 }
@@ -83,5 +83,7 @@ form {
     box-shadow: 3px 3px 5px black;
 }
 
-/*style to override default link colorss*/
-/*I DONT UNDERSTAND WHY I CAN'T CHANGE THE COLOR OF THE ACTIVE LINK*/
+/*Footer Styling*/
+.icon {
+    width: 85px;
+}

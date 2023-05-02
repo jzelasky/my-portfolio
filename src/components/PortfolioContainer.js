@@ -31,7 +31,9 @@ export default function PortfolioContainer() {
             <Header/>
             
             <Navigation currentPage={currentPage} handlePageChange={handlePageChange}/>
-            {renderPage()}
+            <div className='custom-margins'>
+              {renderPage()}
+            </div>
             <Footer/>
         </div>
        

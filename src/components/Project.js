@@ -7,12 +7,12 @@ export default function Project(title, desc, link, github, img) {
             <div className="card m-3 card-styles">
                  <img className='card-img-top card-styles' src={img} alt='project screenshot'></img>
                  <div className='card-body d-flex justify-content-center card-styles'>
-                     <h5 className='card-title card-styles'>{title}</h5>
+                     <h5 className='card-title card-styles header-font-3'>{title}</h5>
                  </div>
                  <div className='card-body d-flex justify-content-center card-styles'>
-                     <p className='card-text card-styles'>{desc}</p>
+                     <p className='card-text card-styles body-font-2'>{desc}</p>
                  </div>
-                 <div className='card-body d-flex justify-content-center card-styles'>
+                 <div className='card-body d-flex justify-content-center card-styles body-font-2'>
                     <a href={github} className='card-link card-styles'>Github Repository</a>
                  </div>
             </div>
@@ -23,12 +23,12 @@ export default function Project(title, desc, link, github, img) {
             <div className="card m-3 card-styles">
                  <img className='card-img-top card-styles' src={img} alt='project screenshot'></img>
                  <div className='card-body d-flex justify-content-center card-styles'>
-                     <h5 className='card-title card-styles'>{title}</h5>
+                     <h5 className='card-title card-styles header-font-3'>{title}</h5>
                  </div>
                  <div className='card-body d-flex justify-content-center card-styles'>
-                     <p className='card-text card-styles'>{desc}</p>
+                     <p className='card-text card-styles body-font-2'>{desc}</p>
                  </div>
-                 <div className='card-body d-flex justify-content-center card-styles'>
+                 <div className='card-body d-flex justify-content-center card-styles body-font-2'>
                      <a href={link} className='card-link card-styles'>Deployed Webpage</a>
                      <a href={github} className='card-link card-styles'>Github Repository</a>
                  </div>

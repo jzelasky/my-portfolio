@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.d53ac15c.css",
+    "main.js": "/my-portfolio/static/js/main.cedb0317.js",
+    "static/media/portfolio-breaking.png": "/my-portfolio/static/media/portfolio-breaking.c0db034db1f16d21dd8b.png",
+    "static/media/portfolio-weather.png": "/my-portfolio/static/media/portfolio-weather.aa87aac03a4ad784b976.png",
+    "static/media/portfolio-socialAPI.png": "/my-portfolio/static/media/portfolio-socialAPI.1dd0b3f69644b7e08f40.png",
+    "static/media/Resume-2023.pdf": "/my-portfolio/static/media/Resume-2023.08aa113eb149836e459d.pdf",
+    "static/media/portfolio-teamProfile.png": "/my-portfolio/static/media/portfolio-teamProfile.58887795a2c31503f2a4.png",
+    "static/media/portfolio-techBlog.png": "/my-portfolio/static/media/portfolio-techBlog.dfbd79289803600be707.png",
+    "static/media/portfolio-health.png": "/my-portfolio/static/media/portfolio-health.9393d1a16e13649dd7c4.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.d53ac15c.css.map": "/my-portfolio/static/css/main.d53ac15c.css.map",
+    "main.cedb0317.js.map": "/my-portfolio/static/js/main.cedb0317.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d53ac15c.css",
+    "static/js/main.cedb0317.js"
+  ]
+}

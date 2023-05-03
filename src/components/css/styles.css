@@ -10,10 +10,6 @@
 * {
     background-color: var(--dk-purple);
 }
-.custom-margins {
-    margin-left: 10%;
-    margin-right: 10%;
-}
 button {
     box-shadow: 1px 1px 2px var(--dk-purple);
 }

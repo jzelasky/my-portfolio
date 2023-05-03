@@ -5,7 +5,7 @@ export default function Resume() {
   return (
     <div className='m-3'>
       <h1 className='p-3 header-font-2'>Resume</h1>
-      <div className='body-font-2 m-3'>
+      <div className='body-font-2 m-5'>
         <h1 className='header-font-3'>Professional Summary:</h1>
         <p> Full stack web developer with a background in mathematics. Trained at the University of Connecticut’s coding boot camp and earned a certificate in full-stack web development. Innovative problem-solver passionate about developing web apps. Strengths in creativity, logic, and building projects from ideation to execution.</p>
         <h1 className='header-font-3'>Education:</h1>

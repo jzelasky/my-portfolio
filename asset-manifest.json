@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.031c43c7.css",
-    "main.js": "/my-portfolio/static/js/main.a430e3b6.js",
+    "main.css": "/my-portfolio/static/css/main.8ffc6c69.css",
+    "main.js": "/my-portfolio/static/js/main.127f47a9.js",
     "static/media/portfolio-breaking.png": "/my-portfolio/static/media/portfolio-breaking.c0db034db1f16d21dd8b.png",
     "static/media/portfolio-weather.png": "/my-portfolio/static/media/portfolio-weather.aa87aac03a4ad784b976.png",
-    "static/media/portfolio-socialAPI.png": "/my-portfolio/static/media/portfolio-socialAPI.1dd0b3f69644b7e08f40.png",
+    "static/media/portfolio-buyNothing.png": "/my-portfolio/static/media/portfolio-buyNothing.cb00260a26050ba9d61d.png",
     "static/media/Resume-2023.pdf": "/my-portfolio/static/media/Resume-2023.08aa113eb149836e459d.pdf",
     "static/media/portfolio-teamProfile.png": "/my-portfolio/static/media/portfolio-teamProfile.58887795a2c31503f2a4.png",
     "static/media/portfolio-techBlog.png": "/my-portfolio/static/media/portfolio-techBlog.dfbd79289803600be707.png",
     "static/media/portfolio-health.png": "/my-portfolio/static/media/portfolio-health.9393d1a16e13649dd7c4.png",
     "index.html": "/my-portfolio/index.html",
-    "main.031c43c7.css.map": "/my-portfolio/static/css/main.031c43c7.css.map",
-    "main.a430e3b6.js.map": "/my-portfolio/static/js/main.a430e3b6.js.map"
+    "main.8ffc6c69.css.map": "/my-portfolio/static/css/main.8ffc6c69.css.map",
+    "main.127f47a9.js.map": "/my-portfolio/static/js/main.127f47a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.031c43c7.css",
-    "static/js/main.a430e3b6.js"
+    "static/css/main.8ffc6c69.css",
+    "static/js/main.127f47a9.js"
   ]
 }

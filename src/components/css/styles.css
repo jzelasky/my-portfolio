@@ -13,6 +13,10 @@
 button {
     box-shadow: 1px 1px 2px var(--dk-purple);
 }
+.customMargins {
+    margin: 5%;
+}
+
 
 
 /*Link Styling*/
@@ -82,4 +86,30 @@ form {
 /*Footer Styling*/
 .icon {
     width: 85px;
+}
+
+
+.resume {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+
+/*Responsive styling*/
+@media only screen and (max-width: 820px) {
+    .aboutFormat {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+}
+@media only screen and (max-width: 630px) {
+    .header-font-1 {
+        font-size: 70px;
+    }
+    .body-font-1 {
+        font-size: 22px;
+    }
+    .resume {
+        margin: 0;
+    }
 }

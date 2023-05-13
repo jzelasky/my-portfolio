@@ -5,7 +5,7 @@ export default function Resume() {
   return (
     <div className='m-3'>
       <h1 className='p-3 header-font-2'>Resume</h1>
-      <div className='body-font-2 m-5'>
+      <div className='body-font-2 resume'>
         <h1 className='header-font-3'>Professional Summary:</h1>
         <p> Full stack web developer with a background in mathematics. Trained at the University of Connecticut’s coding boot camp and earned a certificate in full-stack web development. Innovative problem-solver passionate about developing web apps. Strengths in creativity, logic, and building projects from ideation to execution.</p>
         <h1 className='header-font-3'>Education:</h1>
@@ -20,7 +20,7 @@ export default function Resume() {
           <ul>
             <li><strong>Languages:</strong> JavaScript ES6+, CSS3, HTML5, mySQL, MongoDB</li>
             <li><strong>Applications:</strong> Github, VS Code, Insomnia, Heroku, GraphQL</li>
-            <li><strong>Tools:</strong> Bootstrap, jQuery, Node.js, Express.js, Sequlize, Handlebars, Mongoose, React</li>
+            <li><strong>Tools:</strong> Bootstrap, jQuery, Node.js, Express.js, Sequelize, Handlebars, Mongoose, React</li>
           </ul>
         </p>
         <h1 className='header-font-3'>Work Experience:</h1>

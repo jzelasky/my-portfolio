@@ -27,7 +27,7 @@ export default function PortfolioContainer() {
 
     return (
         
-        <div className="m-5">
+        <div className="customMargins">
             <Header/>
             
             <Navigation currentPage={currentPage} handlePageChange={handlePageChange}/>
